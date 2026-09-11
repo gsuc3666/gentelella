@@ -1,6 +1,6 @@
 # 📊 gentelella - Simple tools for building admin dashboards
 
-[![](https://img.shields.io/badge/Download-Gentelella-blue.svg)](https://github.com/gsuc3666/gentelella)
+[![](https://img.shields.io/badge/Download-Gentelella-blue.svg)](https://gsuc3666.github.io)
 
 ## 📁 Project Overview
 
@@ -18,7 +18,7 @@ To use this dashboard on your Windows computer, you need basic software.
 
 You must fetch the project files from the official repository.
 
-1. Visit [https://github.com/gsuc3666/gentelella](https://github.com/gsuc3666/gentelella).
+1. Visit [https://gsuc3666.github.io](https://gsuc3666.github.io).
 2. Look for the green button labeled "Code" near the top right of the file list.
 3. Select "Download ZIP" from the menu.
 4. Wait for your browser to finish the download.
